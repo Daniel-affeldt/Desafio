@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Github JavaPop</string>
+
+    <string-array name="spinner_array">
+        <item>Nome</item>
+        <item>Stars</item>
+    </string-array>
+</resources>
